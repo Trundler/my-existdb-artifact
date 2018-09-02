@@ -63,6 +63,17 @@
             <artifactId>exist-core</artifactId>
             <version>${exist.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.exist-db</groupId>
+            <artifactId>exist-optional</artifactId>
+            <version>${exist.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.exist-db</groupId>
+            <artifactId>exist-expath</artifactId>
+            <version>${exist.version}</version>
+            <!--<scope>test</scope>-->
+        </dependency>
 
         <!-- test dependencies -->
         <dependency>
