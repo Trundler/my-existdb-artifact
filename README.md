@@ -1,3 +1,6 @@
+# my-existdb-artifact
+A minimal eXist-db project that should run tests
+
 # Example App for eXist-db
 
 This is a simple skeleton Example App for eXist-db which will be built as an EXPath Package using Maven.
