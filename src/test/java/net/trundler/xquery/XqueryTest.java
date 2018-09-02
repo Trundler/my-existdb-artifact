@@ -5,7 +5,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(XSuite.class)
 @XSuite.XSuiteFiles({
-        "src/test/resources/org/exist/jms/xquery"
+        "src/test/resources/net/trundler/xquery"
 })
 
 public class XqueryTest {
